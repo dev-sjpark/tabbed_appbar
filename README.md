@@ -1,16 +1,10 @@
 # tabbed_appbar
 
-A new Flutter project.
+탭바를 사용해서 타이틀을 Opercity 를 사용해서 변경하는 예제 
 
-## Getting Started
+## Screen Shot
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://user-images.githubusercontent.com/81468678/129517822-05e614d8-2af1-4edf-83a2-150f08425b45.mov
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
